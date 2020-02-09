@@ -12,7 +12,6 @@ public class Week {
 
     public Week() {
         this.week = new HashMap<>();
-        this.list = new ArrayList<>();
     }
 
     public void addToSchedule(String day, Task schedule) {

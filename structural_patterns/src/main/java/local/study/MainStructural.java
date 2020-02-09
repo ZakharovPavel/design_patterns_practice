@@ -19,7 +19,6 @@ public class MainStructural {
         week.addToSchedule("Monday", task1);
         week.addToSchedule("Friday", taskComposite);
         System.out.println(week.getSchedule("Monday"));
-
         System.out.println(week.getSchedule("Friday"));
 
     }
