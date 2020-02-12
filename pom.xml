@@ -11,6 +11,7 @@
     <modules>
         <module>generative_design_patterns</module>
         <module>structural_patterns</module>
+        <module>behavioral_patterns</module>
     </modules>
 
     <properties>
